@@ -1,7 +1,7 @@
 {
   "name": "routindb",
   "version": "0.1.0",
-  "description": "A document-oriented database built on top of mongoDB which use HTTP protocol to handle queries and other database operation.  ",
+  "description": "A document-oriented database built on top of mongoDB which use HTTP protocol to handle queries and other database operations.",
   "main": "lib/index.js",
   "repository": "https://github.com/daniel-onyenwee/routindb.git",
   "author": "daniel-onyenwee <danielonyenwee@gmail.com>",
